@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: dbt_rrawat
+    tables:
+      - name: online_retail
